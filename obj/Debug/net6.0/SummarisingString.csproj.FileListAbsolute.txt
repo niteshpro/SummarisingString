@@ -1,0 +1,15 @@
+C:\Users\nitesh\Desktop\C#\SummarisingString\SummarisingString\bin\Debug\net6.0\SummarisingString.exe
+C:\Users\nitesh\Desktop\C#\SummarisingString\SummarisingString\bin\Debug\net6.0\SummarisingString.deps.json
+C:\Users\nitesh\Desktop\C#\SummarisingString\SummarisingString\bin\Debug\net6.0\SummarisingString.runtimeconfig.json
+C:\Users\nitesh\Desktop\C#\SummarisingString\SummarisingString\bin\Debug\net6.0\SummarisingString.dll
+C:\Users\nitesh\Desktop\C#\SummarisingString\SummarisingString\bin\Debug\net6.0\SummarisingString.pdb
+C:\Users\nitesh\Desktop\C#\SummarisingString\SummarisingString\obj\Debug\net6.0\SummarisingString.csproj.AssemblyReference.cache
+C:\Users\nitesh\Desktop\C#\SummarisingString\SummarisingString\obj\Debug\net6.0\SummarisingString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitesh\Desktop\C#\SummarisingString\SummarisingString\obj\Debug\net6.0\SummarisingString.AssemblyInfoInputs.cache
+C:\Users\nitesh\Desktop\C#\SummarisingString\SummarisingString\obj\Debug\net6.0\SummarisingString.AssemblyInfo.cs
+C:\Users\nitesh\Desktop\C#\SummarisingString\SummarisingString\obj\Debug\net6.0\SummarisingString.csproj.CoreCompileInputs.cache
+C:\Users\nitesh\Desktop\C#\SummarisingString\SummarisingString\obj\Debug\net6.0\SummarisingString.dll
+C:\Users\nitesh\Desktop\C#\SummarisingString\SummarisingString\obj\Debug\net6.0\refint\SummarisingString.dll
+C:\Users\nitesh\Desktop\C#\SummarisingString\SummarisingString\obj\Debug\net6.0\SummarisingString.pdb
+C:\Users\nitesh\Desktop\C#\SummarisingString\SummarisingString\obj\Debug\net6.0\SummarisingString.genruntimeconfig.cache
+C:\Users\nitesh\Desktop\C#\SummarisingString\SummarisingString\obj\Debug\net6.0\ref\SummarisingString.dll
